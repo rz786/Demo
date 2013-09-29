@@ -16,7 +16,7 @@
 			display:none;
 		}
 		.orbit-timer{
-			visibility:hidden;
+			visibility:visible;
 		}
 	</style>
 </head>
