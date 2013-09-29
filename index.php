@@ -54,7 +54,7 @@
 
 			<div class="hide-for-small">
 				<div id="featured">
-					<img src="img/untitled.png" style="border:1px solid black;" alt="slide image">
+					<img src="img/Untitled.png" style="border:1px solid black;" alt="slide image">
 					<!--<img src="http://placehold.it/1000x400&text=Slide Image" alt="slide image">
 					<img src="http://placehold.it/1000x400&text=Slide Image" alt="slide image"> -->
 				</div>
